@@ -31,18 +31,18 @@ Instead of static reports, stakeholders now have a **triple-view toggleable dash
 ## 📸 Dashboard View
 
 ### View 1: Revenue & Profit Overview 💰
-![Overview View](./Screenshots/Overview-Revenue-Profit-View.png)
+![Overview View](./Dashboard%20Images/Overview.png)
 > Financial summary: $9.9M revenue (↓61.24%), $3.0M profit (↓61.40%)  
 > Monthly trends, top suppliers, and best-selling SKUs (Corona Extra & Heineken dominate)
 
 ### View 2: Inventory & Category Performance 🏷️
-![Inventory & Category View](./Screenshots/Inventory-Category-View.png)
+![Inventory & Category View](./Dashboard%20Images/Inventory.png)
 > Focus: Product movement, slow-moving items, overstock risk, and category contribution  
 > Highlights the **70.42% Beer dominance** that is single-handedly driving the collapse
 
 
 ### View 3: Seasonality & Sales Channels 🌤️
-![Season & Segments View](./Screenshots/Season-Segments-View.png)
+![Season & Segments View](./Dashboard%20Images/Segments.png)
 > Reveals summer peaks (May–Aug), channel breakdown (Wholesale 40%, Online 32%, Retail 28%)
 
 
