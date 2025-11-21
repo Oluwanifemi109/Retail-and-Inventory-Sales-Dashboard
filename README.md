@@ -7,7 +7,6 @@
 ![Excel Dashboard Badge](https://img.shields.io/badge/Microsoft_Excel-Advanced_Dashboard-107C10?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-Data_Transformation-217346?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power_Pivot-Data_Modeling-217346?style=for-the-badge&logo=powerbi&logoColor=white)
-![Status](https://img.shields.io/badge/Project_Status-Completed-brightgreen)
 
 ## 🎯 Project Overview
 This **fully interactive Excel dashboard** was built for **PrimeBeverage Distribution Ltd.**, a major beverage wholesaler, to provide instant clarity on why the business experienced a catastrophic **61% YoY decline** in revenue and profit between 2017–2020.
