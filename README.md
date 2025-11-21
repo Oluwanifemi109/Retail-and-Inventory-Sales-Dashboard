@@ -1,4 +1,4 @@
-# Retail-and-Inventory-Sales-Dashboard
+# Retail-and-Inventory-Sales-Analytics
 
 ## PrimeBeverage Distribution Ltd. - Retail & Inventory Sales Dashboard 🍺📊
 
